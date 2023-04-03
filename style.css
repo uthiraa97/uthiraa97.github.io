@@ -90,10 +90,9 @@ main {
 }
 
 .profile-iitmlogo {
-  max-width: 60px;
   max-height: 60px;
   border-radius: 50%;
-  object-fit: fill;
+  object-fit: contain;
   object-position: right;
   margin-bottom: 20px;
 }
@@ -120,10 +119,9 @@ main {
   }
 
   .profile-iitmlogo {
-    max-width: 100px;
     max-height: 100px;
     border-radius: 50%;
-    object-fit: fill;
+    object-fit: contain;
     object-position: right;
     margin-bottom: 20px;
   }
