@@ -34,7 +34,7 @@ header {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 250px;
+  width: 350px;
   height: 100vh;
   background-color: #C9EAD0;
   color: #008000;
@@ -82,8 +82,7 @@ main {
 }
 
 .profile-photo {
-  width: 250px;
-  
+  width: 350px;
   border-radius: 0;
   object-fit: contain;
   object-position: top;
@@ -111,7 +110,7 @@ main {
   }
 
   .profile-photo {
-    width: 250px;
+    width: 350px;
     margin: 0 auto;
     display: block;
     border-radius: 0%;
@@ -144,7 +143,7 @@ main {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 250px;
+  width: 350px;
   height: 100vh;
   background-color: #C9EAD0;
   color: #008000;
@@ -209,7 +208,7 @@ footer {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 250px;
+  width: 350px;
   height: 100vh;
   background-color: #C9EAD0;
   color: #008000;
