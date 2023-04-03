@@ -37,7 +37,7 @@ header {
   width: 250px;
   height: 100vh;
   background-color: #C9EAD0;
-  color: green;
+  color: #008000;
   position: fixed;
   top: 0;
   left: 0;
@@ -147,7 +147,7 @@ main {
   width: 250px;
   height: 100vh;
   background-color: #C9EAD0;
-  color: green;
+  color: #008000;
   position: fixed;
   top: 0;
   left: 0;
@@ -212,7 +212,7 @@ footer {
   width: 250px;
   height: 100vh;
   background-color: #C9EAD0;
-  color: green;
+  color: #008000;
   position: fixed;
   top: 0;
   left: 0;
