@@ -95,7 +95,7 @@ main {
   max-height: 60px;
   border-radius: 50%;
   object-fit: fill;
-  object-position: left;
+  object-position: right;
   margin-bottom: 20px;
 }
 
@@ -126,7 +126,7 @@ main {
     max-height: 100px;
     border-radius: 50%;
     object-fit: fill;
-    object-position: left;
+    object-position: right;
     margin-bottom: 20px;
   }
   .container {
