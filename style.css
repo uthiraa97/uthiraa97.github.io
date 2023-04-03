@@ -195,18 +195,25 @@ footer {
     height: 60px;
     text-align: right;
   }
+  body {
+  font-family: Segoe UI;
+  font-size: 12px;
+  line-height: 1;
+  background-color: #f9f9f9;
+  }
 
   main {
   margin-left: 250px;
   padding: 40px;
   margin-bottom: 60px; /* leaves space for footer*/
-}
+  }
+  
  header {
   display: flex;
   flex-direction: column;
   justify-content: top;
   align-items: center;
-  width: 350px;
+  width: 250px;
   height: 100vh;
   background-color: #C9EAD0;
   color: #008000;
@@ -214,5 +221,14 @@ footer {
   top: 0;
   left: 0;
 /*  margin-bottom: 20px;*/
+   .profile-photo {
+    width: 250px;
+    margin: 0 auto;
+    display: block;
+    border-radius: 0%;
+    object-fit: contain;
+    object-position: top;
+    margin-bottom: 20px;
+  }
 
 }
