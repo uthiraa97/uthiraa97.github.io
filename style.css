@@ -5,7 +5,7 @@
 }
 
 body {
-  font-family: Garamond , sans-serif;
+  font-family: Garamond;
   font-size: 16px;
   line-height: 1.5;
   background-color: #f9f9f9;
@@ -36,7 +36,7 @@ header {
   align-items: center;
   width: 250px;
   height: 100vh;
-  background-color: #34d5eb;
+  background-color: #b5d6d6;
   color: #fff;
   position: fixed;
   top: 0;
@@ -79,7 +79,7 @@ nav a {
 }
 
 nav a:hover {
-  background-color: #3f51b5;
+  background-color: #b5d6d6;
   color: #fff;
 }
 
@@ -102,7 +102,7 @@ main {
   max-height: 60px;
   border-radius: 50%;
   object-fit: cover;
-  object-position: center;
+  object-position: left;
   margin-bottom: 20px;
 }
 
