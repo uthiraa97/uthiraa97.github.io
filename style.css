@@ -37,7 +37,7 @@ header {
   width: 250px;
   height: 100vh;
   background-color: #f9f9f9;
-  color: #ff0000;
+  color: green;
   position: fixed;
   top: 0;
   left: 0;
@@ -82,11 +82,11 @@ main {
 }
 
 .profile-photo {
-  width: 230px;
-  height: 230px;
+  width: 250px;
+  
   border-radius: 0;
   object-fit: contain;
-  object-position: center;
+  object-position: top;
   margin-bottom: 20px;
 }
 
@@ -111,13 +111,12 @@ main {
   }
 
   .profile-photo {
-    width: 340px;
-    height: 340px;
+    width: 250px;
     margin: 0 auto;
     display: block;
     border-radius: 0%;
     object-fit: contain;
-    object-position: center;
+    object-position: top;
     margin-bottom: 20px;
   }
 
@@ -145,7 +144,7 @@ main {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  width: 350px;
+  width: 250px;
   height: 100vh;
   background-color: #C9EAD0;
   color: #fff;
@@ -192,13 +191,6 @@ footer {
   bottom: 0;
 }
 @media (max-width: 600px) {
-  body {
-  font-family: Segoe UI;
-  font-size: 12px;
-  line-height: 1.5;
-  background-color: #f9f9f9;
-}
-
   footer {
     position: absolute;
     bottom: 0;
