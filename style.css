@@ -65,7 +65,7 @@ nav li {
 nav a {
   display: inline;
   padding: 10px 20px;
-  background-color: #fff;
+  background-color: #DBA657;
   color: #ff0000;
   text-decoration: none;
   border-radius: 10px;
@@ -73,7 +73,7 @@ nav a {
 }
 
 nav a:hover {
-  background-color: #fff;
+  background-color: #DBA657;
   color: #ff0000;
 }
 
@@ -152,7 +152,7 @@ main {
   width: 350px;
   height: 100vh;
   background-color: #DBA657;
-  color: #008000;
+  color: #7D1F1D;
   position: fixed;
   top: 0;
   left: 0;
@@ -225,7 +225,7 @@ footer {
   width: 250px;
   height: 100vh;
   background-color: #DBA657;
-  color: #008000;
+  color: #7D1F1D;
   position: fixed;
   top: 0;
   left: 0;
